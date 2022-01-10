@@ -41,7 +41,7 @@
 
 <h3>Link New Account</h3>
 
-<p>Click on a button to link a social media account to your {{ config('lorekeeper.settings.site_name', 'Lorekeeper') }} account. You must be logged into the account you want to link to be able to continue.</p>
+<p>Click on a button to link a social media account to your {{ config('lorekeeper.settings.site_name', 'Oddments') }} account. You must be logged into the account you want to link to be able to continue.</p>
 <p>Accounts on sites that have the <strong>Primary</strong> label can be used as a primary account, but will not automatically switch your primary account once authenticated. Added accounts are not visible on your profile by default.</p>
 
 @foreach(Config::get('lorekeeper.sites') as $provider => $site)

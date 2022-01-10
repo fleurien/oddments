@@ -22,7 +22,7 @@ return [
     ],
     'about' => [
         'title' => 'About',
-        'text' => 'Welcome to Lorekeeper! This page is editable from the admin panel. Besides being displayed on the front page when users are logged out, it is also accessible from the About link at the bottom of the page.'
+        'text' => 'Welcome to Oddments! This page is editable from the admin panel. Besides being displayed on the front page when users are logged out, it is also accessible from the About link at the bottom of the page.'
     ],
     'credits' => [
         'title' => 'Credits',
